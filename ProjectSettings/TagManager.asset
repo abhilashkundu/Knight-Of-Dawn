@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SecretEntryObjects
+  - CamFollowTrigger
+  - CamTrigger
+  - obstacle
+  - blade
+  - ladder
+  - senseright
+  - senseleft
+  - etbot
+  - fightdomb
+  - sword
+  - sheild
+  - clue
+  - bullet
+  - P_health
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Key
+    uniqueID: 2920324087
+    locked: 0
+  - name: Ground
+    uniqueID: 1477215497
+    locked: 0
+  - name: SecretEntryObjectLayers
+    uniqueID: 1275011775
+    locked: 0
+  - name: Player
+    uniqueID: 2832368321
+    locked: 0
+  - name: grass
+    uniqueID: 2204474637
+    locked: 0
